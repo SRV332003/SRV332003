@@ -4,7 +4,7 @@
 - 🔭 *I’m currently sophomore at* <a href="https://jcboseust.ac.in">J.C. Bose University of Science and Technology , YMCA, Faridabad</a>
 - 🌱 *I’m have learnt full stack web development.*
 
-- 👩‍💻 *A Python developer and devlops enthusiast.*
+- 👩‍💻 *A Python developer and devops enthusiast.*
 
 - 👯 *I’m looking to collaborate on open source projects (ping me at linkedin).*
 
