@@ -12,12 +12,13 @@
 
 [![An image of @srv333's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srv333)](https://holopin.io/@srv333)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SRV332003" alt="SRV332003" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SRV332003" alt="SRV332003" /></a> </p><hr>
 <h3 align="center">✔️Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/srv333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srv333" height="30" width="40" /></a>
  <a href="https://github.com/SRV332003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="srv333" height="30" width="40" /></a>
 <br>
+  
 
   <h3 align="center">✔️Languages and Tools:</h3>
 <p align="center"> 
@@ -40,15 +41,6 @@
   
 
 </p>
-
-<br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SRV332003&show_icons=true&locale=en&theme=gruvbox" alt="SRV332003" /></a> 
-
-<img alt="My Github stats" align="center" border-radius="40px" width="1000px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=SRV332003&layout=compact" alt="srv333" />
-<br>
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=SRV332003&show_icons=true&locale=en&layout=compact" alt="srv333" />
-</p>
-<br><br><br><br><br><br><br><br>
 
 ## ❤ Views and Followers
 <a href="https://github.com/SRV332003/github-profile-views-counter">
