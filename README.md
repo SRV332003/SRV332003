@@ -1,50 +1,67 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height = "30px">, Sourav this side. </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&center=true&random=false&width=1000&lines=Welcome+to+My+Github+!!;I+am+a+Crazy+Developer.+;Let's+Begin+the+Journey+to+my+World+!!)](https://git.io/typing-svg)
+<p align="center">
+<img align="middle" alt="GIF" src="https://i.pinimg.com/originals/63/88/d5/6388d58d9b3f314f8ab22fe2e3598b8c.gif"/>
+</p>
 
-- 🔭 *I’m currently Pre-Final Year Student at* <a href="https://jcboseust.ac.in">J.C. Bose University of Science and Technology , YMCA, Faridabad</a>
-- 🌱 *I’m have learnt full stack web development along with understanding of VCS and deployement.*
-- 👩‍💻 *A Python developer and devops enthusiast.*
+<p>
+I'm Sourav, a passionate software engineer with a knack for crafting elegant solutions to complex problems. Here, you'll find a diverse array of projects showcasing my skills and creativity across various tech domains.
+</p>
 
-- 👯 *I’m looking to collaborate on open source projects (ping me at linkedin).*
-
+![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
 <hr>
 
+
 [![An image of @srv333's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/srv333)](https://holopin.io/@srv333)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SRV332003" alt="SRV332003" /></a> </p><hr>
-<h3 align="center">✔️Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/srv333/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srv333" height="30" width="40" /></a>
- <a href="https://github.com/SRV332003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="srv333" height="30" width="40" /></a>
-<br>
+ <a align='center' href="https://visitcount.itsvg.in">
   
-
-  <h3 align="center">✔️Languages and Tools:</h3>
-<p align="center"> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>  
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://react.dev/learn" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://go.dev/" target="_blank"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="#" target="_blank"><img  alt="Go" height="40" width="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></a>
-  <hr>
-  
-  
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/SRV332003/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SRV332003">
 </a>
-<a href="https://github.com/SRV332003?tab=followers"><img src="https://img.shields.io/github/followers/SRV332003?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+## About Me <a href="https://visitcount.itsvg.in">  <img src="https://visitcount.itsvg.in/api?id=srv32003&label=Profile%20Views&icon=5&pretty=true"/> </a>
+<ul>
+ 
+<li>🎓 B.Tech in Computer Engineering from JC Bose University YMCA, Faridabad.</li>
+<li>💻 Full Stack Developer with expertise in Python, JavaScript, and GoLang.</li>
+<li>🧠 Experienced in Machine Learning and AI, proficient in PyTorch.</li>
+<li>🎸 Musician at heart, coding ninja by day, and always up for a jamming session!</li>
+
+</ul>
+
+
+
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/Kiran1689/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=srv332003&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  </a>
+</p>
+<br />
+
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="700px"  src="https://skillicons.dev/icons?i=py,go,js,html,css,react,express,flask,md,postgres,mongo,git,vscode,docker,gcp,postman,kali,npm,pytorch,cpp,c,ubuntu,bash,spring&perline=12"  />
+</p>
+<br />
+
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+ <a href="https://www.linkedin.com/in/srv333/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  
+<a href="mailto:srvgarg332003@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=kirannaragund197@gmail.com mail style="margin-bottom: 5px;" />
+</a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+</div>
+
 
